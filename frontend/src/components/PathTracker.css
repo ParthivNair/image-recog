@@ -1,0 +1,16 @@
+.path-tracker {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+  border: 2px solid #4CAF50;
+}
+
+.tracker-canvas {
+  display: block;
+  width: 200px;
+  height: 200px;
+}
+

@@ -1,0 +1,8 @@
+.control-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  min-width: 350px;
+  max-width: 450px;
+}
+
